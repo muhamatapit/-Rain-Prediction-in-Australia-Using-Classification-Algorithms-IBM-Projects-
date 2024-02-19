@@ -6,18 +6,18 @@ The dataset utilized for this project was sourced from the Australian Government
 Evaluation of model performance was conducted using a variety of metrics on the testing dataset to ascertain effectiveness and reliability.
 
 Used these algorithms:
+  1. Linear Regression
+  1. KNN
+  1. Decision Trees
+  1. Logistic Regression
+  1. SVM
 
-Linear Regression
-KNN
-Decision Trees
-Logistic Regression
-SVM
+
 Evaluated the models using:
-
-Accuracy Score
-Jaccard Index
-F1-Score
-LogLoss
-Mean Absolute Error
-Mean Squared Error
-R2-Score
+  1. Accuracy Score
+  1. Jaccard Index
+  1. F1-Score
+  1. LogLoss
+  1. Mean Absolute Error
+  1. Mean Squared Error
+  1. R2-Score
